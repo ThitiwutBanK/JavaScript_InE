@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript-INE",
+			"path": "../../JavaScript-INE"
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		},
+		{
+			"name": "L-02",
+			"path": "."
+		},
+		{
+			"name": "JavaScript_InE",
+			"path": "../../JavaScript_InE"
+		}
+	],
+	"settings": {}
+}
